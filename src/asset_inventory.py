@@ -2,6 +2,10 @@
 Cybersecurity Asset Inventory System
 Weekly Mini Project - 01
 
+Student Name : ASWIN D
+Register No  : 111924CB01301
+Department   : B.E. Computer Science and Engineering (Cybersecurity)
+
 A menu-driven console application that lets a security administrator
 add, search, update, delete and display IT assets, and view a
 security summary of the organization's inventory.

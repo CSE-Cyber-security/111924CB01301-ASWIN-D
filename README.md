@@ -230,4 +230,7 @@ and data persistence are documented in
 
 ## Author
 
-Weekly Mini Project 01 — B.E. Computer Science and Engineering (Cybersecurity)
+- **Name:** ASWIN D
+- **Register Number:** 111924CB01301
+- **Degree & Branch:** B.E. Computer Science and Engineering (Cybersecurity)
+- **Project:** Weekly Mini Project 01 — Cybersecurity Asset Inventory System
