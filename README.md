@@ -28,8 +28,8 @@ Select the branch from the branch dropdown or use git to access each week:
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/CSE-Cyber-security/Cyber-Week-1-Assingment.git
-cd Cyber-Week-1-Assingment
+git clone https://github.com/CSE-Cyber-security/Cyber-Weekly-Assignments.git
+cd Cyber-Weekly-Assignments
 ```
 
 ### Switch to a Week
