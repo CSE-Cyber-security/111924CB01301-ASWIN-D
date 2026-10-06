@@ -1,20 +1,26 @@
-# Week 3 Assignment: Fibonacci Series
+# Week 3 — Fibonacci Series
 
-## Question
-Write a Python program to print the Fibonacci series for n terms.
+**Student Name:** ASWIN D  
+**Register No:** 111924CB01301  
+**Department:** B.E. Computer Science and Engineering (Cybersecurity)  
 
-## Input
-```
+---
+
+## Problem Statement
+Write a Python program to print the Fibonacci series for $n$ terms.
+
+## Input Format
+```text
 Enter the number of terms: 7
 ```
 
-## Output
-```
+## Output Format
+```text
 Fibonacci Series:
 0 1 1 2 3 5 8
 ```
 
-## Program Output
+## Program Output Screenshot
 ![Output Screenshot](screenshots/output_screenshot.png)
 
 ## How to Run
