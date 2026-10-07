@@ -18,9 +18,9 @@ Select the branch from the branch dropdown or use git to access each week:
 
 | Branch | Week | Assignment | Files |
 |---|---|---|---|
-| [`week--01`](../../tree/week--01) | Week 1 | Cybersecurity Asset Inventory System | `src/asset_inventory.py`, `data/assets.json`, `tests/test_cases.md` |
-| [`week--02`](../../tree/week--02) | Week 2 | Factorial of a Number | `factorial.py`, `screenshots/output_screenshot.png` |
-| [`week--03`](../../tree/week--03) | Week 3 | Fibonacci Series | `fibonacci.py`, `screenshots/output_screenshot.png` |
+| [`WEEK-01`](../../tree/WEEK-01) | Week 1 | Cybersecurity Asset Inventory System | `src/asset_inventory.py`, `data/assets.json`, `tests/test_cases.md` |
+| [`WEEK-02`](../../tree/WEEK-02) | Week 2 | Factorial of a Number | `factorial.py`, `screenshots/output_screenshot.png` |
+| [`WEEK-03`](../../tree/WEEK-03) | Week 3 | Fibonacci Series | `fibonacci.py`, `screenshots/output_screenshot.png` |
 
 ---
 
@@ -28,27 +28,27 @@ Select the branch from the branch dropdown or use git to access each week:
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/CSE-Cyber-security/Cyber-Weekly-Assignments.git
-cd Cyber-Weekly-Assignments
+git clone https://github.com/CSE-Cyber-security/111924CB01301-ASWIN-D.git
+cd 111924CB01301-ASWIN-D
 ```
 
 ### Switch to a Week
 
 - **Week 1:**
   ```bash
-  git checkout week--01
+  git checkout WEEK-01
   python src/asset_inventory.py
   ```
 
 - **Week 2:**
   ```bash
-  git checkout week--02
+  git checkout WEEK-02
   python factorial.py
   ```
 
 - **Week 3:**
   ```bash
-  git checkout week--03
+  git checkout WEEK-03
   python fibonacci.py
   ```
 
